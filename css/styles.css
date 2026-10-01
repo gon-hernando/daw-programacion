@@ -1,0 +1,192 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  }
+
+body {
+font-family: Arial, Helvetica, sans-serif;
+background-color: #0f172a;
+color: #e2e8f0;
+min-height: 100vh;
+}
+
+/* ---------- HERO ---------- */
+
+.hero {
+padding: 90px 20px 80px;
+text-align: center;
+background: linear-gradient(135deg, #1e293b, #312e81);
+}
+
+.hero-content {
+max-width: 800px;
+margin: 0 auto;
+}
+
+.tag {
+display: inline-block;
+margin-bottom: 25px;
+padding: 8px 16px;
+
+
+border: 1px solid #818cf8;
+border-radius: 20px;
+
+color: #c7d2fe;
+font-size: 0.9rem;
+
+
+}
+
+h1 {
+margin-bottom: 20px;
+
+
+color: #ffffff;
+font-size: clamp(2.8rem, 7vw, 5rem);
+
+
+}
+
+.subtitle {
+max-width: 650px;
+margin: 0 auto;
+
+
+color: #cbd5e1;
+font-size: 1.15rem;
+line-height: 1.7;
+
+
+}
+
+/* ---------- PROJECTS ---------- */
+
+.projects {
+width: min(1100px, 90%);
+margin: 70px auto;
+}
+
+.projects h2 {
+margin-bottom: 30px;
+
+
+color: #ffffff;
+font-size: 2rem;
+
+
+}
+
+.project-grid {
+display: grid;
+grid-template-columns: repeat(2, 1fr);
+gap: 25px;
+}
+
+/* ---------- CARDS ---------- */
+
+.project-card {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+
+
+min-height: 280px;
+padding: 30px;
+
+background-color: #1e293b;
+border: 1px solid #334155;
+border-radius: 16px;
+
+transition:
+    transform 0.25s ease,
+    border-color 0.25s ease;
+
+
+}
+
+.project-card:hover {
+transform: translateY(-7px);
+border-color: #818cf8;
+}
+
+.number {
+color: #818cf8;
+font-size: 2.5rem;
+font-weight: bold;
+}
+
+.project-card h3 {
+margin: 15px 0 10px;
+
+
+color: #ffffff;
+font-size: 1.4rem;
+
+
+}
+
+.project-card p {
+color: #94a3b8;
+line-height: 1.6;
+}
+
+.project-card a {
+display: inline-block;
+
+
+margin-top: 25px;
+padding: 11px 18px;
+
+background-color: #6366f1;
+border-radius: 8px;
+
+color: #ffffff;
+text-align: center;
+text-decoration: none;
+font-weight: bold;
+
+transition: background-color 0.2s ease;
+
+
+}
+
+.project-card a:hover {
+background-color: #818cf8;
+}
+
+/* ---------- FOOTER ---------- */
+
+footer {
+padding: 35px 20px;
+
+
+border-top: 1px solid #334155;
+
+color: #64748b;
+text-align: center;
+
+
+}
+
+footer a {
+color: #a5b4fc;
+text-decoration: none;
+}
+
+/* ---------- RESPONSIVE ---------- */
+
+@media (max-width: 700px) {
+
+
+.project-grid {
+    grid-template-columns: 1fr;
+}
+
+.hero {
+    padding: 70px 20px;
+}
+
+
+}
