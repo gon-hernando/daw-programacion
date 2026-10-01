@@ -1,0 +1,20 @@
+# NetBeans
+**/build/
+**/dist/
+**/nbproject/private/
+
+# Archivos compilados
+*.class
+
+# Archivos de NetBeans
+**/.netbeans_automatic_build
+**/.netbeans_update_resources
+
+# Archivos de Windows
+desktop.ini
+
+# Archivos temporales de Office
+~$*
+
+# VS Code
+.vscode/
