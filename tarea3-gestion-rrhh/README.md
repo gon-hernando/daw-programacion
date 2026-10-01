@@ -1,6 +1,6 @@
 # 👔 Gestión de RRHH
 
-> 📚 Práctica 03 · **Programación** · 2.º DAW
+> 📚 Práctica 03 · **Programación** · 1.º DAW
 
 Aplicación desarrollada en **Java** para la gestión de empleados y registros de recursos humanos. El proyecto se ejecuta por consola y está organizado mediante clases y paquetes.
 
