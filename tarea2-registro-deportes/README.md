@@ -1,6 +1,6 @@
 # ⚽ Registro de deportes
 
-> 📚 Práctica 02 · **Programación** · 2.º DAW
+> 📚 Práctica 02 · **Programación** · 1.º DAW
 
 Aplicación desarrollada en **Java** para la gestión de participantes inscritos en diferentes deportes. El proyecto se ejecuta por consola y está organizado siguiendo una estructura basada en programación orientada a objetos.
 

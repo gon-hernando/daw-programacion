@@ -1,6 +1,6 @@
 # 🚗 Gestión de garaje
 
-> 📚 Práctica 06 · **Programación** · 2.º DAW
+> 📚 Práctica 06 · **Programación** · 1.º DAW
 
 Aplicación desarrollada en **Java** para la gestión de vehículos y las operaciones de un garaje. El proyecto se ejecuta por consola y utiliza diferentes conceptos de programación orientada a objetos.
 

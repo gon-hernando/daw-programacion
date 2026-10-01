@@ -1,6 +1,6 @@
 # 🏦 Aplicación bancaria
 
-> 📚 Práctica 05 · **Programación** · 2.º DAW
+> 📚 Práctica 05 · **Programación** · 1.º DAW
 
 Aplicación desarrollada en **Java** para la gestión de clientes y cuentas bancarias. El proyecto se ejecuta por consola y está organizado siguiendo los principios de la programación orientada a objetos.
 
