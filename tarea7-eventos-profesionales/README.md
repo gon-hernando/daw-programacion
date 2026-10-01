@@ -1,6 +1,6 @@
 # 📅 Eventos profesionales
 
-> 📚 Práctica 07 · **Programación** · 2.º DAW
+> 📚 Práctica 07 · **Programación** · 1.º DAW
 
 Aplicación desarrollada en **Java** para la gestión de eventos profesionales, participantes y recursos. El proyecto se ejecuta por consola y utiliza diferentes conceptos de programación orientada a objetos.
 
