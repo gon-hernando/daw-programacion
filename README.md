@@ -20,6 +20,24 @@ En este repositorio se recogen los ejercicios y proyectos desarrollados durante 
 
 Cada práctica o proyecto se encuentra organizado en su correspondiente carpeta.
 
+## 📁 Proyectos
+
+| Tarea | Proyecto | Tecnologías / conceptos |
+|------:|----------|-------------------------|
+| 02 | Registro de deportes |  |
+| 03 | Gestión de RRHH |  |
+| 04 | Notas escolares | |
+| 05 | Aplicación bancaria |  |
+| 06 | Gestión de garaje |  |
+| 07 | Eventos profesionales | |
+
+## 🛠️ Tecnologías
+
+- ☕ Java
+- 💻 NetBeans
+- 🌱 Git
+- 🐙 GitHub
+
 ## 👨‍💻 Autor
 
 **Gonzalo Hernando**  
